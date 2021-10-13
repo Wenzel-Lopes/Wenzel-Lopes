@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  
 </div>
   
-  ![Snake animation](https://github.com/juliootonidev/juliootonidev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Wenzel-Lopes/Wenzel-Lopes/blob/output/github-contribution-grid-snake.svg)
   <br>
   - Thanks for visiting and MAY THE CODE BE WITH YOU! 😎
   

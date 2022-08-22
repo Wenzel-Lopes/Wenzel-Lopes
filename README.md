@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: Finish my academic work and find a new job.
+:outbox_tray: 2022 Goals: Finish my academic work.
 
 <div align="center">
   <a href="https://github.com/Wenzel-Lopes">
